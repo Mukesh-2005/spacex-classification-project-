@@ -15,9 +15,11 @@ To clean, transform, and prepare the Falcon 9 launch dataset for exploratory ana
 - Reordered columns to group launch metadata, payload, and landing outcome
 
 ## 📊 Launch Site Distribution (Falcon 9 Only)
-CCAFS SLC 40    55
-KSC LC 39A      22
-VAFB SLC 4E     13
+| Launch Site | Launched |
+|------------|--------|
+|CCAFS SLC 40 |   55 |
+|KSC LC 39A   |   22 |
+|VAFB SLC 4E  |  13  |
 
 
 ## 🧠 Outcome Mapping Logic
@@ -40,8 +42,10 @@ To prepare for supervised learning, outcomes were mapped to binary classes:
   `{False ASDS, False RTLS, False Ocean, None ASDS, None None}`
 
 ### Outcome Class Distribution
-1    60
-0    30
+| Class | Total Outcome |
+|-------|--------------|
+|1   | 60 |
+|0   | 30 |
 
 
 ## 📘 What I Learned
