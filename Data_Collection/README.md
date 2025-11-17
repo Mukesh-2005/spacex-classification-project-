@@ -33,3 +33,5 @@ To collect and structure SpaceX launch data using REST API calls, focusing speci
 - lab1_notebook.ipynb: Full code for API calls, data extraction, filtering, and cleaning
 - README.md: This documentation.
 
+**Built by Mukesh — part of my learning series**
+**📅 Last updated: November 2025**
