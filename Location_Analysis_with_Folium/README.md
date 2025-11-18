@@ -29,7 +29,6 @@ To visualize SpaceX Falcon 9 launch sites on an interactive map and analyze thei
 
 ## 📁 Files in This Folder
 - `lab6_location_analysis.ipynb`: Full notebook with Folium map and distance logic
-- `launch_site_map.html`: Exported interactive map (if included)
 - `README.md`: This documentation
 
 ---
