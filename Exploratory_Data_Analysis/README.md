@@ -1,4 +1,4 @@
-# 🧪 Lab 3: Exploratory Data Analysis with SQL (SQLite)
+# 🧪 Lab 4: Exploratory Data Analysis with SQL (SQLite)
 
 ## 📌 Objective
 To perform exploratory data analysis (EDA) on the Falcon 9 launch dataset using SQL within a Jupyter notebook environment. This lab focused on querying structured data using SQL syntax and validating insights obtained from previous pandas-based analysis.
