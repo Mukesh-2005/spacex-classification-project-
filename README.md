@@ -43,13 +43,18 @@ The goal of this project is to predict the success of SpaceX Falcon 9 launches u
 
 ## 📁 Repository Structure
 
-- `Data_Collection/`
-- `Data_Wrangling/`
-- `Exploratory_Data_Analysis/`
-- `Location_Analysis_with_Folium/`
-- `Python_Dashboard/`
+- `1_Data_Collection/`
+- `2_Data_Webscraping/`
+- `3_Data_Wrangling/`
+- `4_EDA_SQL/`
+- `5_EDA_Visualization/`
+- `6_Location_Analysis_with_Folium/`
+- `7_Python_Dashboard/`
+- `8_Model_Prediction/`
+- `images/`
 - `LICENSE`
 - `README.md`
+- `requirements.txt`
 
 Each folder contains a dedicated README explaining the lab’s goals, methods, and outcomes.
 
