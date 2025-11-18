@@ -19,6 +19,16 @@ The goal of this project is to predict the success of SpaceX Falcon 9 launches u
 | [**7. Dashboarding**](Python_Dashboard/) | Built an interactive Dash app with dropdowns, sliders, and dynamic charts |
 | [**8. Model Evaluation**](Python_Dashboard/) | Trained and compared Logistic Regression, SVM, Decision Tree, and KNN classifiers on launch data |
 
+## 📸 Visual Previews
+
+### 🗺️ Folium Map
+![Folium Map](https://github.com/Mukesh-2005/spacex-classification-project-/blob/main/images/Screenshot%202025-11-18%20234714.png?raw=true)
+
+### 📊 Dash Dashboard
+![Dash Dashboard](images/dash_dashboard.png)
+
+
+
 ## 🧠 Skills Practiced
 
 - REST API integration
