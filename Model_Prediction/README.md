@@ -25,10 +25,14 @@
 |Logistic Regression  | 83.33% | 
 | SVM |83.33%  | 
 | KNN | 83.33% | 
-|Decision Tree| 88.89%|
+|***Decision Tree***| ***88.89%***|
 
 
 # ✅ Conclusion
 All models performed reasonably well on the unseen test data, achieving over 83% accuracy. However, the Decision Tree Classifier outperformed the others with an accuracy of 88.89%, making it the best-performing model for this classification task.
+
+
+**Built by Mukesh — part of my model project series**  
+📅 Last updated: November 2025
 
 
