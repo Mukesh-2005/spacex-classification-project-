@@ -24,6 +24,8 @@ The goal of this project is to predict the success of SpaceX Falcon 9 launches u
 ### 🗺️ Folium Map
 ![Folium Map](https://github.com/Mukesh-2005/spacex-classification-project-/blob/main/images/Screenshot%202025-11-18%20234714.png?raw=true)
 
+### 🎗️ Interactive Dashboard : Visualizes launch success rates by payload, site, and booster version
+![Dash Dashboard](https://github.com/Mukesh-2005/spacex-classification-project-/blob/main/images/Screenshot%202025-11-18%20235324.png?raw=true)
 
 ## 🧠 Skills Practiced
 
@@ -35,11 +37,8 @@ The goal of this project is to predict the success of SpaceX Falcon 9 launches u
 - Interactive dashboarding with Dash
 - Supervised learning with scikit-learn
 
-## 📊 Final Outputs
 
-- **Interactive Dashboard**: Visualizes launch success rates by payload, site, and booster version
-![Dash Dashboard](https://github.com/Mukesh-2005/spacex-classification-project-/blob/main/images/Screenshot%202025-11-18%20235324.png?raw=true)
-- **Model Comparison**: Evaluates four classifiers on unseen test data
+
 
 ## 📁 Repository Structure
 
