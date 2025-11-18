@@ -42,7 +42,7 @@ To build an interactive dashboard using Python and Dash that visualizes SpaceX F
 
 ## 🖼️ Dashboard Preview
 
-Below is a screenshot of the interactive dashboard showing launch success and payload analysis for VAFB SLC-4E:
+Below is a screenshot of the interactive dashboard showing launch success and payload analysis for All sites:
 
 ![SpaceX Dashboard Screenshot](dashboard_screenshot.png)
 
