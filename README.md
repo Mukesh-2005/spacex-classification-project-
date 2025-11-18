@@ -7,17 +7,17 @@ This repository documents my hands-on labs from the Coursera Data Science Capsto
 The goal of this project is to predict the success of SpaceX Falcon 9 launches using historical data. I explored multiple stages of the workflow including API calls, web scraping, SQL-based EDA, geospatial mapping, and supervised machine learning.
 
 ## 🧪 Lab Breakdown
-
 | Lab | Description |
 |-----|-------------|
-| [**1. Data Collection**](Data_Collection/) | Collected Falcon 9 launch data using REST API calls, extracting relevant features for analysis |
-| [**2. Data Wrangling**](Data_Wrangling/) | Cleaned and transformed the dataset, handled missing values, engineered features, and labeled outcomes |
-| [**3. Web Scraping**](Data_Collection/) | Parsed HTML tables to extract structured launch data using BeautifulSoup |
-| [**4. EDA (SQL)**](Exploratory_Data_Analysis/) | Queried launch data using SQL syntax in Jupyter to validate insights |
-| [**5. EDA (Visualization)**](Exploratory_Data_Analysis/) | Explored relationships using statistical plots and prepared features for modeling |
-| [**6. Location Analysis**](Location_Analysis_with_Folium/) | Mapped launch sites using Folium and calculated distances to key geographic features |
-| [**7. Dashboarding**](Python_Dashboard/) | Built an interactive Dash app with dropdowns, sliders, and dynamic charts |
-| [**8. Model Evaluation**](Python_Dashboard/) | Trained and compared Logistic Regression, SVM, Decision Tree, and KNN classifiers on launch data |
+| [**1. Data Collection**](1_Data_Collection/) | Collected Falcon 9 launch data using REST API calls, extracting relevant features for analysis |
+| [**2. Web Scraping**](2_Data_Webscraping/) | Parsed HTML tables to extract structured launch data using BeautifulSoup |
+| [**3. Data Wrangling**](3_Data_Wrangling/) | Cleaned and transformed the dataset, handled missing values, engineered features, and labeled outcomes |
+| [**4. EDA (SQL)**](4_EDA_SQL/) | Queried launch data using SQL syntax in Jupyter to validate insights |
+| [**5. EDA (Visualization)**](5_EDA_Visualization/) | Explored relationships using statistical plots and prepared features for modeling |
+| [**6. Location Analysis**](6_Location_Analysis_with_Folium/) | Mapped launch sites using Folium and calculated distances to key geographic features |
+| [**7. Dashboarding**](7_Python_Dashboard/) | Built an interactive Dash app with dropdowns, sliders, and dynamic charts |
+| [**8. Model Evaluation**](8_Model_Prediction/) | Trained and compared Logistic Regression, SVM, Decision Tree, and KNN classifiers on launch data |
+
 
 ## 📸 Visual Previews
 
